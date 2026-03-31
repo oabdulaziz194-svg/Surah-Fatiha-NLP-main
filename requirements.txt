@@ -1,0 +1,6 @@
+pyarabic
+pandas
+scikit-learn
+gensim
+transformers
+torch

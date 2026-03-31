@@ -1,4 +1,3 @@
-# Surah-Fatiha-NLP-main
 #  Apply Text Representation Techniques (NLP)
 
 هذا المجلد يحتوي على **تطبيقات عملية لتقنيات تمثيل النص (Text Representation Techniques)** باستخدام اللغة العربية، مع التركيز على **سورة الفاتحة** كنص تطبيقي، وذلك لأغراض تعليمية وأكاديمية في مجال **معالجة اللغة الطبيعية (NLP)**.
@@ -144,7 +143,7 @@ BERT.py
 
 ##  المؤلف
 
-- الاسم: عمر شمسان
+- الاسم: احمد الحكيمي
 - المجال: Artificial intelligence / NLP
 
 ---
